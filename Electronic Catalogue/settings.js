@@ -1,7 +1,7 @@
   var option_PDF1 = {
   
 
-source: "Portfolio.pdf", //you can change the path and the name of your .pdf file 
+source: "phoenix - portfolio.pdf", //you can change the path and the name of your .pdf file 
 
  
 
